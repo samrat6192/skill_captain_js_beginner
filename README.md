@@ -1,1 +1,1 @@
-# skill_captain_java_beginner
+# skill_captain_js_beginner
